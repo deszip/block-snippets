@@ -7,7 +7,7 @@ Objective-C Xcode snippets for those who can't in block syntax
 ```
 git clone https://github.com/deszip/block-snippets.git /tmp/snippets
 mv /tmp/snippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/
-rm -rf /tmp/foo
+rm -rf /tmp/snippets
 ```
 
 ## Inspired by
